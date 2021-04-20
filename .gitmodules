@@ -1,3 +1,6 @@
 [submodule "aws-genomics-workflows"]
 	path = aws-genomics-workflows
 	url = git@github.com:wwood/aws-genomics-workflows.git
+[submodule "dvc-google-cloud-storage"]
+	path = dvc-google-cloud-storage
+	url = https://github.com/mitchac/dvc-google-cloud-storage.git
